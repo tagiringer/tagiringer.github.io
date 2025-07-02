@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.3.2//EN
+N:Mittenzwey;Nathan;;;
+FN:Nathan Mittenzwey
+X-SOCIALPROFILE;type=Instagram;x-user=mittnathan:x-apple:mittnathan
+item1.URL;type=pref:https://nathanmittenzwey.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
